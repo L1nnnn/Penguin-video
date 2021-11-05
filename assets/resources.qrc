@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/youtube.svg</file>
+        <file>icons/youtube2.svg</file>
+    </qresource>
+</RCC>
